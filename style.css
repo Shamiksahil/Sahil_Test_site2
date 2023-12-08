@@ -1,0 +1,122 @@
+.d1{
+    width: 100%;
+    height: 7.1vh;
+    background-color:#fff;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: "Gotham SSm";
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.01px;
+    color:rgb(97, 100, 104) ;
+}
+
+.d2{
+    width: 100%;
+    height: 92.9vh;
+    background-image: url("background.jpeg");
+    background-size: 100%;
+    background-position-y: -156px;
+}
+
+.b{
+    margin: 0px;
+}
+.a{
+    text-decoration: none;
+    box-shadow: 0px 1px 0px 0px;
+    font-family: "Gotham SSm";
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.01px;
+    color:rgb(97, 100, 104) ;
+}
+
+.i1{
+    width: 130px;
+    margin-top: 25px;
+    margin-left: 45px;
+    cursor: pointer;
+}
+
+.ul1{
+    list-style: none;
+    margin-left: 370px;
+    margin-top: -25px;
+}
+
+.li1{
+    display: inline;
+    font-family: "Gotham SSm";
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 30px;
+    cursor: pointer;
+    
+}
+
+.ul2{
+    list-style: none;
+    margin-left:1200px ;
+    margin-top: -35px;
+}
+.d3{
+    justify-content: center;
+    display: flex;
+    font-family: "Gotham SSm";
+    font-size: 40px;
+    font-weight: 500;
+    margin-left:25px;
+    margin-top: 55px;
+
+}
+
+.d4{
+    justify-content: center;
+    display: flex;
+    font-family: "Gotham SSm";
+    font-size: 17px;
+    font-weight: 400;
+    margin-left: 25px;
+    margin-top: 8px;
+    color: rgb(62, 65, 69);;
+    
+}
+
+.d5{
+    justify-content: center;
+    display: flex;
+    margin-top: 415px;
+}
+
+.b1{
+    width: 270px;
+    height: 40px;
+    border: none;
+    color: rgb(231, 232, 231);
+    background-color: rgb(62, 65, 69);
+    border-radius: 5px;
+    font-family: "Gotham SSm";
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    cursor: pointer;
+
+}
+
+.b2{
+    width: 270px;
+    height: 40px;
+    margin-left: 25px;
+    border: none;
+    color: rgb(62, 65, 69);
+    background-color: rgb(231, 232, 231);
+    border-radius: 5px;
+    font-family: "Gotham SSm";
+    font-size: 14px;
+    font-weight: 450;
+    cursor: pointer;
+
+}
+
